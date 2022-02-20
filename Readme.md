@@ -1,5 +1,5 @@
 # KC Homebuilding 301
-![HWS Crane](images/HSWcrane.png)
+![HWS Crane](images/HSWcrane_cropped.png)
 #### Authors: [Peter Vuong](https://github.com/petercvuong) |[Brian Reynolds](https://github.com/NaavSD) |[Will Norton](https://github.com/Noptov)
 
 ## Business Understanding & Problem
