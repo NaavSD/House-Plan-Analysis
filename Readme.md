@@ -51,5 +51,5 @@ There are three main areas where we would like to investigate further:
 ├── deliverables <br>
 ├── images <br>
 ├── .gitignore <br>
-├── Project 2 Final - Upload this to GIT.ipynb <br>
+├── Project 2 Final Notebook.ipynb<br>
 └── README.md <br>
